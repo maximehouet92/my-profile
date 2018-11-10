@@ -1,0 +1,48 @@
+h2,h1,h3,h4 {
+  color: red;
+	font-size: 20px;
+    font-family: 'Bangers', cursive;
+}
+body {
+	background-color: #DFDDDF;  /* Background color */
+}
+body {
+	font-family: 'Ultra', serif;	
+}
+body {
+  color: rbg(30, 30, 30);
+	text-align: justify;
+	text-decoration: none;
+}
+body {
+  font-weight: 300;	
+}
+a {
+text-decoration: yellow;
+color: red;
+} 
+a:hover {
+ color:yellow ;
+}
+.hello {
+	background: white;                           
+padding: 60px;
+margin: 50px;    
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+border-radius: 4px;
+}
+.tg{
+background: white;                           
+padding: 60px;
+margin: 50px;    
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+border-radius: 4px;	
+}                               
+.bonjour{
+background: white;                           
+padding: 60px;
+margin: 50px;    
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+border-radius: 4px;	
+}
+
